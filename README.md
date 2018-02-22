@@ -5,7 +5,10 @@ First, the initial Jounal script was made by GTAVTRP: https://github.com/GTAVFTR
 Thanks to them for sharing!
 
 I add Hacking fonction and modify the preview.
-To acces to the Archive Room, an ambulance have to be in the server. You can change to more ambulance if you want.
+
+To access to the Archive Room, One ambulance have to be on town.
+
+You can change to more ambulance if you want.
 
 Contributor: **Poro#9494**
 
