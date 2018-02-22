@@ -1,6 +1,13 @@
 # FXserver-esx_coronergate
 FXServer ESX coronergate
 
+First, the initial Jounal script was made by GTAVTRP: https://github.com/GTAVFTRP/journal/ 
+Thanks to them for sharing!
+
+I just add Hacking fonction and modify the preview.
+
+[Contributor]: Poro#9494
+
 [REQUIREMENTS]
 
 * mhacking => https://forum.fivem.net/t/release-simple-hacking-minigame/62095
@@ -22,5 +29,14 @@ INSERT INTO `items` (`name`, `label`, `limit`) VALUES
 start esx_esx_coronergate
 ```
 
-#HowTo
+[Change Document]
+
+If you want to change the picture and so all the information, you juste have to change the link on:esx_coronergate\ui\style.css line 81:
+
+```
+background:url("https://i.imgur.com/HaC5Ewa.png") no-repeat center fixed;
+```
+
+#Exemple:
+
 https://www.youtube.com/watch?v=48akH7z9dh8
