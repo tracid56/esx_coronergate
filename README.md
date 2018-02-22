@@ -4,7 +4,7 @@ FXServer ESX coronergate
 First, the initial Jounal script was made by GTAVTRP: https://github.com/GTAVFTRP/journal/ 
 Thanks to them for sharing!
 
-I just add Hacking fonction and modify the preview.
+I add Hacking fonction and modify the preview.
 
 Contributor: **Poro#9494**
 
