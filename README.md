@@ -6,7 +6,7 @@ Thanks to them for sharing!
 
 I just add Hacking fonction and modify the preview.
 
-[Contributor]: Poro#9494
+Contributor: **Poro#9494**
 
 [REQUIREMENTS]
 
